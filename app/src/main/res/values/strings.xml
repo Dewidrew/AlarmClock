@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="menu_add">Add</string>
+</resources>
